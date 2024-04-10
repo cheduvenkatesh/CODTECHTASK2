@@ -2,7 +2,7 @@ package Chatbot;
 
 import java.util.Scanner;
 
-public class Task2ChatBoT {
+public class Task2ChatBot {
 
 	
  public static void main(String[] args) {
